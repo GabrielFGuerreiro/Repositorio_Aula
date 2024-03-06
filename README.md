@@ -3,9 +3,12 @@
 
 ## AULA 1 ENGENHARIA DE SOFTWARE III
 
--Prestar atenção em qual arquivo esta, caso use o Git Bash-
+>-Prestar atenção em qual arquivo esta, caso use o Git Bash-
+
 DICAS:
+
 git clone - clona o repositório (pegar o code do repositorio)
+
 git  add .   
 git commit - m "mensagem obrigatória"
 git push  
